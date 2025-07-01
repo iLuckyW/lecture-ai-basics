@@ -31,7 +31,11 @@ Learn to handle, analyse, and visualise data using powerful Python libraries ess
 
 ### Introduction to Machine Learning
 
+Learn the fundamentals of building, training, and evaluating machine learning models using scikit-learn.
 
+2. [Data Preparation](./chapter/04_ml/01_data_preparation.ipynb): Prepare data for machine learning by cleaning, encoding, and splitting datasets effectively.
+3. [Machine Learning](./chapter/04_ml/02_machine_learning.ipynb): Build and train models using scikit-learn to make predictions and uncover patterns in data.
+1. [Evaluation](./chapter/04_ml/03_evaluation.ipynb): Assess model performance with appropriate metrics to understand and improve results.
 
 ### Assessment
 
