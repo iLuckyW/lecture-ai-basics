@@ -6,6 +6,8 @@ Course content for the elective Artificial Intelligence I, covering foundational
 
 ### Preparation
 
+
+
 ### Python
 
 Learn core Python programming concepts essential for data analysis and AI.
@@ -29,7 +31,14 @@ Learn to handle, analyse, and visualise data using powerful Python libraries ess
 
 ### Introduction to Machine Learning
 
+
+
 ### Assessment
+
+Apply your knowledge in practical assessments to demonstrate your skills in data analysis, visualisation, preprocessing, and machine learning.
+
+1. [Assessment 1](./chapter/05_assessment/01_assessment/README.md): Use Numpy and Pandas to analyse and preprocess data, then create clear visualisations with Matplotlib and Seaborn to demonstrate your understanding of data handling workflows.
+2. [Assessment 2](./chapter/05_assessment/02_assessment/README.md): Apply scikit-learn to build, train, and evaluate machine learning models, showcasing your ability to implement a complete ML pipeline on real datasets.
 
 ## Getting Started
 
