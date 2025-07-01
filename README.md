@@ -6,6 +6,7 @@ Course content for the elective Artificial Intelligence I, covering foundational
 
 ### Preparation
 
+
 ### Python
 
 ### Data Handling and Visualisation
