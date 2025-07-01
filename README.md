@@ -53,3 +53,5 @@ Commit Message Format
 - `infra`: infrastructure ch
 
 ## Documentation
+
+* [Contributing](./.github/contributing.md): A guide on how to contribute to this project, including commit conventions and best practices.
