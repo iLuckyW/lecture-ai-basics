@@ -1,6 +1,6 @@
 # Lecture: AI I - Bascis
 
-Course content for the elective Artificial Intelligence I, covering foundational AI concepts and applied exercises.
+Course content for the elective **Artificial Intelligence I**, covering foundational AI concepts and applied exercises.
 
 ## Chapter
 
