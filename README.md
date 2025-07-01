@@ -2,6 +2,18 @@
 
 Course content for the elective Artificial Intelligence I, covering foundational AI concepts and applied exercises.
 
+## Chapter
+
+### Preparation
+
+### Python
+
+### Data Handling and Visualisation
+
+### Introduction to Machine Learning
+
+### Assessment
+
 ## Getting Started
 
 > [!NOTE]
