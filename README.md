@@ -6,8 +6,16 @@ Course content for the elective Artificial Intelligence I, covering foundational
 
 ### Preparation
 
-
 ### Python
+
+Learn core Python programming concepts essential for data analysis and AI.
+
+1. [Basics](./chapter/02_python/01_basics.ipynb): Understand fundamental data types (integers, floats, strings, booleans) and basic operations in Python.
+2. [Data Structures](./chapter/02_python/02_data_structures.ipynb): Work with lists, tuples, dictionaries, and sets to organise and process data.
+3. [Control Flow](./chapter/02_python/03_control_flow.ipynb): Use if-else statements, loops, and list comprehensions for program logic.
+4. [Object Orientation](./chapter/02_python/04_object_orientation.ipynb): Define classes and objects to structure your code efficiently.
+5. [Additionals](./chapter/02_python/05_additionals.ipynb): earn map, filter, reduce, decorators, context managers, ... to write cleaner and more efficient Python code.
+
 
 ### Data Handling and Visualisation
 
