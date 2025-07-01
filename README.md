@@ -47,7 +47,7 @@ Apply your knowledge in practical assessments to demonstrate your skills in data
 ## Getting Started
 
 > [!NOTE]
-> Use the included dev container to automatically install all the necessary dev tools and dependencies.
+> Use the included dev container to automatically install all the necessary dev tools and dependencies. To use this you first need to install docker under Linux or WSL2 under windows.
 
 1. **Clone the repository:**
     ```sh
