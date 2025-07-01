@@ -4,9 +4,9 @@ Course content for the elective Artificial Intelligence I, covering foundational
 
 ## Chapter
 
-### Preparation
+### Prerequisites
 
-
+Check the required knowledge and [set up your programming environment](./chapter/01_prerequisites/README.md) to be ready for this module.
 
 ### Python
 
