@@ -19,6 +19,13 @@ Learn core Python programming concepts essential for data analysis and AI.
 
 ### Data Handling and Visualisation
 
+Learn to handle, analyse, and visualise data using powerful Python libraries essential for AI and data science.
+
+1. [Numpy](./chapter/03_data/01_numpy.ipynb): Learn to create and manipulate arrays and perform efficient numerical operations.
+2. [Pandas](./chapter/03_data/02_pandas.ipynb): Work with DataFrames to analyse, filter, and aggregate tabular data easily.
+3. [Matpltlib](./chapter/03_data/03_matplotlib.ipynb): Create basic plots like line graphs, histograms, and scatter plots for data visualisation.
+4. [Seaborn](./chapter/03_data/04_seaborn.ipynb): Generate advanced and aesthetically pleasing statistical plots to explore data insights quickly.
+
 ### Introduction to Machine Learning
 
 ### Assessment
