@@ -1,4 +1,4 @@
-# Lecture: AI I - Bascis
+# Lecture: AI I - Basics
 
 Course content for the elective **Artificial Intelligence I**, covering foundational AI concepts and applied exercises.
 
