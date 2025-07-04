@@ -98,4 +98,4 @@ After cloning the repository, set up your Python environment. You have two optio
 
 ## Completing the Python Basics Subchapter
 
-After setting up your environment, begin with the [Python Basics](./00_basics.ipynb) subchapter to ensure you have the necessary programming foundation for this module.
+After setting up your environment, begin with the [Jupyter Notebook Basics](./00_basics.ipynb) subchapter to ensure you have the necessary programming foundation for this module.
