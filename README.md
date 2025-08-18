@@ -28,6 +28,7 @@ Learn to handle, analyse, and visualise data using powerful Python libraries ess
 3. [Matpltlib](./chapter/03_data/03_matplotlib.ipynb): Create basic plots like line graphs, histograms, and scatter plots for data visualisation.
 4. [Seaborn](./chapter/03_data/04_seaborn.ipynb): Generate advanced and aesthetically pleasing statistical plots to explore data insights quickly.
 5. [Preprocessing](./chapter/03_data/05_preprocessing.ipynb): Clean and prepare data for analysis or machine learning by handling missing values, encoding categories, and transforming features with Pandas.
+6. [Additional Libraries and Tools](./chapter/03_data/06_additionals.ipynb): Explore other useful libraries and tools (e.g. Dask, DuckDB).
 
 ### Introduction to Machine Learning
 
