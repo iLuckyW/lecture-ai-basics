@@ -3,3 +3,5 @@
 # Except this file
 !.gitignore
 !stinkbug.png
+!task*.png
+!temperatures.txt
