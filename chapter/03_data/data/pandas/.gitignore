@@ -3,3 +3,5 @@
 # Except this file
 !.gitignore
 !Pokemon.csv
+!countries.csv
+!continents.csv
